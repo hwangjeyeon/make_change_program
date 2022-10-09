@@ -1,6 +1,0 @@
-﻿  p-2.2.cpp
-C:\Users\kingp\source\repos\Project3\Project3\p-2.2.cpp(117,20): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kingp\source\repos\Project3\Project3\p-2.2.cpp(119,21): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kingp\source\repos\Project3\Project3\p-2.2.cpp(327,22): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kingp\source\repos\Project3\Project3\p-2.2.cpp(327,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Project3.vcxproj -> C:\Users\kingp\source\repos\Project3\x64\Debug\Project3.exe
